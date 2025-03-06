@@ -1,7 +1,5 @@
-use std::f32;
-
-const WIDTH: usize = 255;
-const HEIGHT: usize = 255;
+const WIDTH: usize = 30;
+const HEIGHT: usize = 30;
 
 fn main() {
     let w = WIDTH as f32;
